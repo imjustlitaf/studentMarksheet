@@ -16,3 +16,9 @@ The endpoints are:
 /update
 
 /delete/:id
+
+The required npm packages are:
+
+fastify
+
+fastify-swagger
